@@ -23,8 +23,11 @@
     <img height="45" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/2437bb0476c5d4b57ab2332df21db10d834bfb6e/logo/illustrator.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
-##                              
+
+## 
+
 ## Contato e Redes Sociais
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/AlmirOliveira77)](https://github.com/AlmirOliveira77)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/almir-oliveira-31637b174/)](https://www.linkedin.com/in/almir-oliveira-31637b174/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/Almir_Oliveira9)](https://twitter.com/Almir_Oliveira9) 
