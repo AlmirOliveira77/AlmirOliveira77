@@ -3,7 +3,7 @@
 Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande.
 
 <p align="center">
-    <img height="40" src="https://github.com/AlmirOliveira77/AlmirOliveira77/blob/main/logo/c%2B%2B.svg">
+    <img height="40" src="https://github.com/AlmirOliveira77/AlmirOliveira77/blob/main/logo/c.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
