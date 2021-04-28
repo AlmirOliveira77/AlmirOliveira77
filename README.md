@@ -7,7 +7,7 @@ Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande.
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/c%2B%2B.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/java.svg">
+    <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/bd81a8fb95c4de624ab19f3b56545bc124821331/logo/java.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
