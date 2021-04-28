@@ -3,7 +3,7 @@
 - Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande
 - Técnico em Informática pelo IFPE - Campus Belo Jardim
 - [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
-##         
+##   🖥️🚀      
 
 <p align="left">
     <img height="45" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/c.svg">
