@@ -3,11 +3,11 @@
 Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande.
 
 <p align="center">
-    <img height="40" src="https://github.com/AlmirOliveira77/AlmirOliveira77/blob/main/logo/c.svg">
+    <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/c.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/c%2B%2B.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img height="40" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/java.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
