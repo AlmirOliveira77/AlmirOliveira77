@@ -1,6 +1,8 @@
 # Almir Oliveira 👨🏽‍💻
 
-Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande.
+- Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande
+- Tecnico em Informatica pelo IFPE - Campus Belo Jardim
+- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
 <p align="left">
     <img height="45" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/0da331ca6b6fd6b77e984ad74464fa117a377c58/logo/c.svg">
@@ -18,15 +20,9 @@ Graduando em Engenharia de Computação pelo IFPB - Campus Campina Grande.
     <img height="45" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/7d4adf8b32e66805bcd7f6d2d91cb0f6e1edfe20/logo/photoshop.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="45" src="https://raw.githubusercontent.com/AlmirOliveira77/AlmirOliveira77/2437bb0476c5d4b57ab2332df21db10d834bfb6e/logo/illustrator.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-      
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
-
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
 
 ## Contato e Redes Sociais
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/AlmirOliveira77)](https://github.com/AlmirOliveira77)
